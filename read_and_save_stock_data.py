@@ -2,9 +2,9 @@
 """
 Created on Mon Nov  5 14:37:29 2018
 
-@author: epinsky
+@author: Yian Yao
 """
-# run this !pip install pandas_datareader
+!pip install pandas_datareader
 from pandas_datareader import data as web
 import os
 import pandas as pd
